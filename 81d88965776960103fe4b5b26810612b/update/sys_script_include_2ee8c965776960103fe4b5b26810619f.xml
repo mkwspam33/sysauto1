@@ -5,7 +5,7 @@
         <api_name>sn_sysauto1.scr1</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description>sc2</description>
+        <description>sc22</description>
         <name>scr1</name>
         <script><![CDATA[var scr1 = Class.create();
 scr1.prototype = {
@@ -18,13 +18,13 @@ scr1.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-06 14:04:28</sys_created_on>
         <sys_id>2ee8c965776960103fe4b5b26810619f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>scr1</sys_name>
         <sys_package display_value="sysauto1" source="sn_sysauto1">81d88965776960103fe4b5b26810612b</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="sysauto1">81d88965776960103fe4b5b26810612b</sys_scope>
         <sys_update_name>sys_script_include_2ee8c965776960103fe4b5b26810619f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-06 14:09:07</sys_updated_on>
+        <sys_updated_on>2021-01-06 14:43:53</sys_updated_on>
     </sys_script_include>
 </record_update>
