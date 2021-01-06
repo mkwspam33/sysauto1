@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule">
+    <sysrule action="INSERT_OR_UPDATE">
+        <description>ok</description>
+        <name>ruletest</name>
+        <order>100</order>
+        <sys_class_name>sysrule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-06 15:00:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84b5116d776960103fe4b5b26810619c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ruletest</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sysauto1" source="sn_sysauto1">81d88965776960103fe4b5b26810612b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sysauto1">81d88965776960103fe4b5b26810612b</sys_scope>
+        <sys_update_name>sysrule_84b5116d776960103fe4b5b26810619c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-06 15:00:18</sys_updated_on>
+    </sysrule>
+</record_update>
